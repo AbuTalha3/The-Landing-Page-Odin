@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid black;
+      display: flex; 
+      border: 1px dotted red;
+      height: 150px;
+      width: 100%;
+      color: rgb(255, 216, 157);
+      background-color: blueviolet;
+      font-size: large;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      
+    
+  }
+  .content {
+    border: 1px solid wh;
+    box-sizing: border-box;
+
+  }
+  
